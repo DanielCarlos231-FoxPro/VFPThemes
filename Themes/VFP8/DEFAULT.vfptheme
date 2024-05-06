@@ -1,0 +1,24 @@
+[vfp8colors]
+EditorCommentColor = RGB(0,128,0,255,255,255), NoAuto, Auto
+EditorConstantColor = RGB(0,0,0,255,255,255), Auto, Auto
+EditorKeywordColor = RGB(0,0,255,255,255,255), NoAuto, Auto
+EditorNormalColor = RGB(0,0,0,255,255,255), Auto, Auto
+EditorOperatorColor = RGB(0,0,0,255,255,255), Auto, Auto
+EditorStringColor = RGB(0,0,0,255,255,255), Auto, Auto
+EditorVariableColor = RGB(0,0,0,255,255,255), Auto, Auto
+TraceBreakpointColor = RGB(255,0,0,0,0,0), NoAuto, Auto
+TraceCallstackColor = RGB(0,0,0,240,240,240), Auto, Auto
+TraceExecutingColor = RGB(255,255,0,0,0,0), NoAuto, Auto
+TraceNormalColor = RGB(0,0,0,255,255,255), Auto, Auto
+TraceSelectedColor = RGB(255,255,255,0,0,0), Auto, Auto
+LocalsNormalColor = RGB(0,0,0,255,255,255), Auto, Auto
+LocalsSelectedColor = RGB(255,255,255,0,0,0), Auto, Auto
+WatchChangedColor = RGB(255,0,0,255,255,255), NoAuto, Auto
+WatchNormalColor = RGB(0,0,0,255,255,255), Auto, Auto
+WatchSelectedColor = RGB(255,255,255,0,0,0), Auto, Auto
+OutputNormalColor = RGB(0,0,0,255,255,255), Auto, Auto
+OutputSelectedColor = RGB(255,255,255,0,0,0), Auto, Auto
+CallstackNormalColor = RGB(0,0,0,255,255,255), Auto, Auto
+CallstackSelectedColor = RGB(255,255,255,0,0,0), Auto, Auto
+BookmarkColor = RGB(0,255,255,0,0,0), NoAuto, Auto
+ShortcutColor = RGB(0,0,255,0,0,0), NoAuto, Auto

@@ -1,0 +1,24 @@
+[vfp9colors]
+Editorcommentcolor = RGB(147, 161, 161, 0, 0, 0), NoAuto, NoAuto
+Editorconstantcolor = RGB(214, 189, 92, 0, 0, 0), NoAuto, NoAuto
+Editorkeywordcolor = RGB(215, 0, 215, 0, 0, 0), NoAuto, NoAuto
+Editornormalcolor = RGB(30, 30, 30, 0, 0, 0), NoAuto, NoAuto  
+Editoroperatorcolor = RGB(0, 255, 255, 0, 0, 0), NoAuto, NoAuto
+Editorstringcolor = RGB(152, 195, 121, 0, 0, 0), NoAuto, NoAuto
+Editorvariablecolor = RGB(214, 189, 92, 0, 0, 0), NoAuto, NoAuto
+Tracebreakpointcolor = RGB(255, 0, 0, 0, 0, 0), NoAuto, NoAuto
+Tracecallstackcolor = RGB(255, 0, 0, 0, 0, 0), NoAuto, NoAuto
+Traceexecutingcolor = RGB(255, 255, 255, 0, 0, 0), NoAuto, NoAuto
+Tracenormalcolor = RGB(255, 255, 255, 0, 0, 0), NoAuto, NoAuto
+Traceselectedcolor = RGB(215, 0, 215, 0, 0, 0), NoAuto, NoAuto
+Localsnormalcolor = RGB(214, 189, 92, 0, 0, 0), NoAuto, NoAuto
+Localsselectedcolor = RGB(215, 0, 215, 0, 0, 0), NoAuto, NoAuto
+Watchchangedcolor = RGB(255, 0, 0, 0, 0, 0), NoAuto, NoAuto
+Watchnormalcolor = RGB(214, 189, 92, 0, 0, 0), NoAuto, NoAuto
+Watchselectedcolor = RGB(215, 0, 215, 0, 0, 0), NoAuto, NoAuto
+Outputnormalcolor = RGB(30, 30, 30, 0, 0, 0), NoAuto, NoAuto  
+Outputselectedcolor = RGB(215, 0, 215, 0, 0, 0), NoAuto, NoAuto
+Callstacknormalcolor = RGB(214, 189, 92, 0, 0, 0), NoAuto, NoAuto
+Callstackselectedcolor = RGB(215, 0, 215, 0, 0, 0), NoAuto, NoAuto
+Bookmarkcolor = RGB(0, 255, 255, 0, 0, 0), NoAuto, Auto
+Shortcutcolor = RGB(0, 0, 255, 0, 0, 0), NoAuto, NoAuto
